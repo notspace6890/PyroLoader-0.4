@@ -1,0 +1,12 @@
+{
+  "plugin": "io.github.giantnuker.pyro.PyroMixinPlugin",
+  "required": true,
+  "package": "io.github.giantnuker.pyro.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "mixins": [
+    "StopAsapMixin"
+  ]
+}

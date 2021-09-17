@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "pyroclient-loader",
+    "name": "PyroLoader",
+    "description": "Pyro Client Loader src fixed by Crystallinqq",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "https://crystallinqq.me",
+    "updateUrl": "",
+    "authorList": [
+      "GiantNuker/GiantNigger"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
